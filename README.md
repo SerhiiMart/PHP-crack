@@ -1,1 +1,1 @@
-Crack PHP program (Cracks only four digets code!)
+ PHP crack program (Cracks only four digets code!)
